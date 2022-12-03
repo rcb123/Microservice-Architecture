@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/pep517/in_process" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/cachecontrol" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/certifi" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/chardet" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/colorama" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/distlib" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/distro" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/idna" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/msgpack" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/packaging" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/pkg_resources" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/platformdirs" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/pygments" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/pyparsing" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/requests" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/resolvelib" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/rich" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/tenacity" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/tomli" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/urllib3" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_vendor/webencodings" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pip/_internal" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/_distutils_hack" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/pkg_resources" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/setuptools" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/lib/python3.10/site-packages/setuptools-63.2.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/converter/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/gateway/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/notification/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
