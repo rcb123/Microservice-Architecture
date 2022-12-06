@@ -32,6 +32,9 @@
       <excludeFolder url="file://$MODULE_DIR$/python/src/converter/venv/include" />
       <excludeFolder url="file://$MODULE_DIR$/python/src/gateway/venv/include" />
       <excludeFolder url="file://$MODULE_DIR$/python/src/notification/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/auth/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/converter/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/python/src/gateway/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
